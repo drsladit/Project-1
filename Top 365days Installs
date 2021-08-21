@@ -1,0 +1,11 @@
+app_name,app_description,app_installs,app_installs_30d,app_installs_90d,app_installs_365d
+node,Platform built on V8 to build network applications,"{'30days': 308113, '90days': 870817, '365days': 3447605}",308113,870817,3447605
+git,Distributed revision control system,"{'30days': 267720, '90days': 643448, '365days': 2465836}",267720,643448,2465836
+python@3.9,"Interpreted, interactive, object-oriented programming language","{'30days': 163011, '90days': 527988, '365days': 2193013}",163011,527988,2193013
+python@3.8,"Interpreted, interactive, object-oriented programming language","{'30days': 152796, '90days': 477032, '365days': 2164444}",152796,477032,2164444
+awscli,Official Amazon AWS command-line interface,"{'30days': 169865, '90days': 484504, '365days': 1785585}",169865,484504,1785585
+postgresql,Object-relational database system,"{'30days': 82815, '90days': 246567, '365days': 1765447}",82815,246567,1765447
+imagemagick,Tools and libraries to manipulate images in many formats,"{'30days': 95017, '90days': 349174, '365days': 1653620}",95017,349174,1653620
+wget,Internet file retriever,"{'30days': 100666, '90days': 318384, '365days': 1554790}",100666,318384,1554790
+ffmpeg,"Play, record, convert, and stream audio and video","{'30days': 64304, '90days': 247849, '365days': 1378312}",64304,247849,1378312
+pyenv,Python version management,"{'30days': 99557, '90days': 334317, '365days': 1223417}",99557,334317,1223417
