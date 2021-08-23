@@ -1,0 +1,11 @@
+app_name,app_description,app_installs_30d
+node,Platform built on V8 to build network applications,308113
+git,Distributed revision control system,267720
+ruby-build,Install various Ruby versions and implementations,183875
+awscli,Official Amazon AWS command-line interface,169865
+python@3.9,"Interpreted, interactive, object-oriented programming language",163011
+python@3.8,"Interpreted, interactive, object-oriented programming language",152796
+wget,Internet file retriever,100666
+pyenv,Python version management,99557
+imagemagick,Tools and libraries to manipulate images in many formats,95017
+vim,Vi 'workalike' with many additional features,87715

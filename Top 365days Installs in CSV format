@@ -1,0 +1,11 @@
+app_name,app_description,app_installs_365d
+node,Platform built on V8 to build network applications,3447605
+git,Distributed revision control system,2465836
+python@3.9,"Interpreted, interactive, object-oriented programming language",2193013
+python@3.8,"Interpreted, interactive, object-oriented programming language",2164444
+awscli,Official Amazon AWS command-line interface,1785585
+postgresql,Object-relational database system,1765447
+imagemagick,Tools and libraries to manipulate images in many formats,1653620
+wget,Internet file retriever,1554790
+ffmpeg,"Play, record, convert, and stream audio and video",1378312
+pyenv,Python version management,1223417

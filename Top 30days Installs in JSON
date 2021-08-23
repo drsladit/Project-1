@@ -1,1 +1,38 @@
-{"app_name":{"3630":"node","1678":"git","4511":"ruby-build","284":"awscli","4266":"python@3.9","4265":"python@3.8","5491":"wget","4234":"pyenv","2227":"imagemagick","5382":"vim"},"app_description":{"3630":"Platform built on V8 to build network applications","1678":"Distributed revision control system","4511":"Install various Ruby versions and implementations","284":"Official Amazon AWS command-line interface","4266":"Interpreted, interactive, object-oriented programming language","4265":"Interpreted, interactive, object-oriented programming language","5491":"Internet file retriever","4234":"Python version management","2227":"Tools and libraries to manipulate images in many formats","5382":"Vi 'workalike' with many additional features"},"app_installs":{"3630":{"30days":308113,"90days":870817,"365days":3447605},"1678":{"30days":267720,"90days":643448,"365days":2465836},"4511":{"30days":183875,"90days":280008,"365days":556504},"284":{"30days":169865,"90days":484504,"365days":1785585},"4266":{"30days":163011,"90days":527988,"365days":2193013},"4265":{"30days":152796,"90days":477032,"365days":2164444},"5491":{"30days":100666,"90days":318384,"365days":1554790},"4234":{"30days":99557,"90days":334317,"365days":1223417},"2227":{"30days":95017,"90days":349174,"365days":1653620},"5382":{"30days":87715,"90days":263704,"365days":997512}},"app_installs_30d":{"3630":308113,"1678":267720,"4511":183875,"284":169865,"4266":163011,"4265":152796,"5491":100666,"4234":99557,"2227":95017,"5382":87715},"app_installs_90d":{"3630":870817,"1678":643448,"4511":280008,"284":484504,"4266":527988,"4265":477032,"5491":318384,"4234":334317,"2227":349174,"5382":263704},"app_installs_365d":{"3630":3447605,"1678":2465836,"4511":556504,"284":1785585,"4266":2193013,"4265":2164444,"5491":1554790,"4234":1223417,"2227":1653620,"5382":997512}}
+{
+  "app_name":{
+    "0":"node",
+    "1":"git",
+    "2":"ruby-build",
+    "3":"awscli",
+    "4":"python@3.9",
+    "5":"python@3.8",
+    "6":"wget",
+    "7":"pyenv",
+    "8":"imagemagick",
+    "9":"vim"
+  },
+  "app_description":{
+    "0":"Platform built on V8 to build network applications",
+    "1":"Distributed revision control system",
+    "2":"Install various Ruby versions and implementations",
+    "3":"Official Amazon AWS command-line interface",
+    "4":"Interpreted, interactive, object-oriented programming language",
+    "5":"Interpreted, interactive, object-oriented programming language",
+    "6":"Internet file retriever",
+    "7":"Python version management",
+    "8":"Tools and libraries to manipulate images in many formats",
+    "9":"Vi 'workalike' with many additional features"
+  },
+  "app_installs_30d":{
+    "0":308113,
+    "1":267720,
+    "2":183875,
+    "3":169865,
+    "4":163011,
+    "5":152796,
+    "6":100666,
+    "7":99557,
+    "8":95017,
+    "9":87715
+  }
+}
